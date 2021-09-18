@@ -1,0 +1,1 @@
+# adjust-india-isp-bookmarklet
